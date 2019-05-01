@@ -10,7 +10,7 @@ Para a montagem do circuito foram utilizados:
   * protoboard
   * jumpers
   
-![Figura1. Circuito](img/dht11_led_nodeMCU.png?raw=true "Circuito" | width=70)
+![Figura1. Circuito](img/dht11_led_nodeMCU.png?raw=true "Circuito"){:height="200px" width="200px"}
  > Na pasta img é possível obter o arquivo do esquemático do circuito feito no Fritzing, bem como a imagem do circuito real montado.
  
 ## Configuração do Blynk
