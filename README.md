@@ -10,7 +10,7 @@ Para a montagem do circuito foram utilizados:
   * protoboard
   * jumpers
   
-![Figura1. Circuito](img/dht11_led_nodeMCU.png?raw=true "Circuito")
+![Figura1. Circuito](img/dht11_led_nodeMCU.png?raw=true "Circuito" | width=70)
  > Na pasta img é possível obter o arquivo do esquemático do circuito feito no Fritzing, bem como a imagem do circuito real montado.
  
 ## Configuração do Blynk
@@ -21,7 +21,7 @@ No app Blynk configure como abaixo:
 Os pinos virtuais devem ser os mesmos especificados no código .ino
 
 ## Resultados
-![Figura2. blynk](img/blynk.jpeg?raw=true "Blynk")
-![Figura3. thingspeak](img/grafico.png?raw=true "Thingspeak")
+![Figura2. blynk](img/blynk.jpeg?raw=true "Blynk" | width=50)
+![Figura3. thingspeak](img/grafico.png?raw=true "Thingspeak" | width=90)
 
 
