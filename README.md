@@ -21,7 +21,7 @@ No app Blynk configure como abaixo:
 Os pinos virtuais devem ser os mesmos especificados no código .ino
 
 ## Resultados
-![Figura2. blynk](img/blynk.png?raw=true "Blynk")
+![Figura2. blynk](img/blynk.jpeg?raw=true "Blynk")
 ![Figura3. thingspeak](img/grafico.png?raw=true "Thingspeak")
 
 
