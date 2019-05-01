@@ -22,7 +22,8 @@ No app Blynk configure como abaixo:
 Os pinos virtuais devem ser os mesmos especificados no código .ino
 
 ## Resultados
-![Figura2. blynk](img/blynk.jpeg?raw=true "Blynk"){:height="50%" width="50%"}
-![Figura3. thingspeak](img/grafico.png?raw=true "Thingspeak" | width=90)
+<img src="img/blynk.jpeg" width="50%" height="50%">
+<img src="img/grafico.png" width="50%" height="50%">
+
 
 
