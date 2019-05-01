@@ -10,7 +10,7 @@ Para a montagem do circuito foram utilizados:
   * protoboard
   * jumpers
   
-<img src="img/dht11_led_nodeMCU.png" width="400" height="400">
+<img src="img/dht11_led_nodeMCU.png" width="400" height="700">
 
  > Na pasta img é possível obter o arquivo do esquemático do circuito feito no Fritzing, bem como a imagem do circuito real montado.
  
