@@ -39,6 +39,8 @@ void setup(){
   //conexão WiFi
   Serial.println("Conectado a rede ");
   Serial.println(ssid);
+  Blynk.begin(auth, ssid, pass);
+
   WiFi.begin(ssid, pass);
   while(WiFi.status() != WL_CONNECTED){
     delay(500);
@@ -47,7 +49,6 @@ void setup(){
   Serial.println("");
   Serial.println("WiFi conectado!");
   
-  Blynk.begin(auth, ssid, pass);
   timer.setInterval(2000L, sendBlynk);
 }
 
