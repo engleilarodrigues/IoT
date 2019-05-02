@@ -52,9 +52,6 @@ void setup(){
 }
 
 void loop(){
-  Blynk.run();
-  timer.run();
-
   //leitura do sensor DHT11
   float h = dht.readHumidity();
   float t = dht.readTemperature();
@@ -94,6 +91,7 @@ void loop(){
   }
   client.stop();
   Serial.println("Aguarde");
-
+  Blynk.run();
+  timer.run();
   delay(20000); //thingspeak necessita de no minimo 15s entre as atualizações
 }
